@@ -34,8 +34,7 @@ Default command:
 
 /adminitem
 
-
-This can be changed in the configuration (config.lua).
+This can be changed
 
 The command opens the Admin Item Menu, where admins can search and spawn items instantly.
 
