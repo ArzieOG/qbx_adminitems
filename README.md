@@ -42,6 +42,7 @@ The command opens the Admin Item Menu, where admins can search and spawn items i
 
 <img width="1228" height="992" alt="image" src="https://github.com/user-attachments/assets/cb9b48ea-f65f-4028-a536-2d806a709e4e" />
 <img width="1174" height="575" alt="image" src="https://github.com/user-attachments/assets/43604435-34fe-4168-aca2-de32a267f9a5" />
+<img width="1161" height="580" alt="image" src="https://github.com/user-attachments/assets/fd9c9d8f-89a6-4a62-9021-fbbf2fed58d1" />
 
 📥 Installation
 
