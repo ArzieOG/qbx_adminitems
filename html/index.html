@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Admin Item Menu</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div id="app" style="display: none;">
+    <div class="header">
+      <h2>Admin Item Menu</h2>
+      <input type="text" id="search" placeholder="Search item...">
+      <button id="closeBtn">×</button>
+    </div>
+    <div id="grid"></div>
+
+    <div id="itemPopup" class="popup" style="display:none;">
+      <div class="popup-content">
+        <h3 id="popupItemName"></h3>
+        <img id="popupItemImg" src="" alt="" class="popup-img">
+        <label>Amount:</label>
+        <input type="number" id="popupAmount" value="1" min="1">
+        <label>Player ID (0 = yourself):</label>
+        <input type="number" id="popupTarget" value="0" min="0">
+        <div class="popup-buttons">
+          <button id="popupConfirm">Give Item</button>
+          <button id="popupCancel">Cancel</button>
+        </div>
+      </div>
+    </div>
+
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
+
