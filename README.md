@@ -26,7 +26,7 @@ qbx framework https://github.com/Qbox-project/qbx_core
 
 ox_inventory 
 
-ox_lib 
+ox_lib (Optional)
 
 📝 Command
 
