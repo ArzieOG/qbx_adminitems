@@ -56,8 +56,7 @@ ensure qbx_adminitems
 
 Or you can just add to your [qbx] folder
 
-
-Adjust the config (optional)
+Add your identifier to the server.lua 
 
 Restart your server
 
