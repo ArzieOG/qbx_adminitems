@@ -12,7 +12,7 @@ Perfect for testing, development, or administrative item distribution.
 
 📦 Lists all registered items automatically
 
-🔐 Admin-only command
+🔐 Admin-only command (Set admins in the server.lua)
 
 ⚡ Fast & lightweight, optimized for qbx servers
 
