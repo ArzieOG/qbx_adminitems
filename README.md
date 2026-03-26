@@ -40,9 +40,10 @@ The command opens the Admin Item Menu, where admins can search and spawn items i
 
 📸 Preview
 
-<img width="1228" height="992" alt="image" src="https://github.com/user-attachments/assets/cb9b48ea-f65f-4028-a536-2d806a709e4e" />
-<img width="1174" height="575" alt="image" src="https://github.com/user-attachments/assets/43604435-34fe-4168-aca2-de32a267f9a5" />
-<img width="1161" height="580" alt="image" src="https://github.com/user-attachments/assets/fd9c9d8f-89a6-4a62-9021-fbbf2fed58d1" />
+<img width="1199" height="1052" alt="image" src="https://github.com/user-attachments/assets/761761fa-cc20-41ad-9798-ea52f2b4320e" />
+<img width="1348" height="621" alt="image" src="https://github.com/user-attachments/assets/918eee23-322b-4c1b-92d8-b4c296bb9b18" />
+<img width="1381" height="857" alt="image" src="https://github.com/user-attachments/assets/5890f70f-1ec8-484e-a946-62cba0247344" />
+<img width="1160" height="1019" alt="image" src="https://github.com/user-attachments/assets/2177a1c1-08bf-4524-b0c7-8427022bd915" />
 
 📥 Installation
 
